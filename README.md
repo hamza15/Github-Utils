@@ -7,6 +7,6 @@ A repository for github utilities in Python.
 1. Dependencies for branch-creation.py:
 
         Generate a github token and insert into branch-creation.py
-        Run: pip3 install pygithub
+        Run: pip3 install PyGithub
         Run: python3 branch-creation.py
 
